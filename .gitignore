@@ -1,2 +1,5 @@
-01.png
-02.png
+# ignore 01.png file in any directory named img
+img/01.png
+
+# ignore 02.png file in any directory named img
+img/02.png
