@@ -18,13 +18,12 @@ body {
     justify-content: center;
     align-items: flex-start;
     background-color: #1F2937;
-    height: 460px;
+    
 }
 
 .section1 {
     display: flex;
     flex-direction: column;
-    height: 400px;
     width: 80%;
    /* border: 10px solid #2c2c2c;*/
 }
