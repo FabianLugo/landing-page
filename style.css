@@ -187,4 +187,48 @@ h2{
 }
 
 
+/*Section 4*/
+
+.section4{
+    display:flex;
+    flex: 1 0 150px;
+    justify-content: center;
+    align-items: center;
+    color:white;
+}
+
+.call-to-action{
+    display: flex;
+    gap:64px;
+    padding: 24px 64px;
+    border: solid 1px ;
+    border-radius: 8px;
+    background-color: #3882F6;
+
+}
+
+
+.RH{
+    display: flex;
+    background-color: #3882F6;
+    border-color:white;
+    border-style:solid;
+    border-radius: 8px;
+    color:white;
+
+    justify-content: center;
+    align-items: center;
+    padding:8px 16px;
+    cursor:pointer;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.light{
+    font-weight: 300;
+    font-size: small;
+}
+
 
