@@ -3,8 +3,9 @@
 The main goal of this project is to put in to practice
 flexbox layout system, html, css and git commits.
 
-It contains three sections and a footer, it relates to an
-online store.
+It contains three sections and a footer, the original content relates to an
+online store, notes from "Think like a monk" book by Jay Shetty have been
+written instead.
 
 This project is possible thanks to "The Odin Project", it is an 
 exercise part of the Foundations course.
